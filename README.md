@@ -3,7 +3,7 @@
 ShurjoPay has multiple plugins, modules and SDK's of different programming languages and frameworks ready for the developers. So, the merchants and their developers can effortlessly integrate shurjoPay to their respective websites, applications & mobile apps with us. Anyone can integrate shurjoPay payment gateway with their application and test the payment flow with sandbox.
 
 <section  class="docs-section" id="item-2-1">
-					<h3 align="center">PHP & CMS</h3>
+					<h4 align="center">PHP & CMS</h4>
 					<table  class="table plugin" >
 						<thead align="left">
 							<tr>
@@ -59,7 +59,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 						</tbody>
 						</table>
 						<!-- mobile -->
-						<h3 id="item-2-2"  align="center">MOBILE PLATFORM</h3>
+						<h4 id="item-2-2"  align="center">MOBILE PLATFORM</h4>
 					<table class="table plugin" >
 						<tbody align="left">
 							<tr>
@@ -83,7 +83,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     					</tbody>
     					</table>
     				<!-- Java -->
-    				<h3  align="center">JAVA, JAVASCRIPT & OTHERS</h3>
+    				<h4  align="center">JAVA, JAVASCRIPT & OTHERS</h4>
     				<table  class="table plugin" >
     					<tbody align="left">
     						<tr>

@@ -148,8 +148,3 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 
     For any technical assistance please contact to: https://shurjopay.com.bd/#contacts
 
-<style>
-td, th {
-    border: 1px solid ;
-}
-</style>

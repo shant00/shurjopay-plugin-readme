@@ -3,17 +3,17 @@
 ShurjoPay has multiple plugins, modules and SDK's of different programming languages and frameworks ready for the developers. So, the merchants and their developers can effortlessly integrate shurjoPay to their respective websites, applications & mobile apps with us. Anyone can integrate shurjoPay payment gateway with their application and test the payment flow with sandbox.
 
 <section  class="docs-section" id="item-2-1">
-					<h4 align="center">PHP & CMS</h4>
-					<table class="table plugin" >
-						<thead >
+					<h2 align="center">PHP & CMS</h2>
+					<table  class="table plugin" >
+						<thead align="left">
 							<tr>
-							<th width="250px" scope="col">Framework/Language</th>
+							<th  width="250px" scope="col">Framework/Language</th>
 							<th width="250px" scope="col">Package</th>
 							<th width="250px" scope="col">Source</th>
 							<th width="250px" scope="col">Remarks</th>
 							</tr>
 						</thead>
-						<tbody>
+						<tbody align="left">
 						<tr  id="item-2-2">
 							<th scope="row" >PHP </th>
 							<th><a class="table_link" href="https://packagist.org/packages/shurjomukhi/shurjopay-plugin-php" target="_blank">shurjopay-plugin-php 0.1.0</a></th>
@@ -59,9 +59,9 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 						</tbody>
 						</table>
 						<!-- mobile -->
-						<h4 id="item-2-2"  align="center">MOBILE PLATFORM</h4>
+						<h2 id="item-2-2"  align="center">MOBILE PLATFORM</h2>
 					<table class="table plugin" >
-						<tbody >
+						<tbody align="left">
 							<tr>
 							<th width="250px" scope="row">Android</th>
 							<th width="250px" ><a class="table_link" href="#" target="_blank"></a></th>
@@ -83,9 +83,9 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     					</tbody>
     					</table>
     				<!-- Java -->
-    				<h4  align="center">JAVA, JAVASCRIPT & OTHERS</h4>
+    				<h2  align="center">JAVA, JAVASCRIPT & OTHERS</h2>
     				<table  class="table plugin" >
-    					<tbody >
+    					<tbody align="left">
     						<tr>
     						<th width="250px" scope="row" >Java</th>
     						<th width="250px" id="item-2-4"><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-java" target="_blank">sp-plugin-java 0.1.0</a></th>
@@ -110,7 +110,6 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-nodejs" target="_blank">sp-plugin-nodejs</a></th>
     						<th></th>
     						</tr>
-    					<tbody>
     						<tr>
     						<th scope="row">Python</th>
     						<th><a class="table_link" href="https://pypi.org/project/shurjopay-plugin/" target="_blank" >shurjopay-plugin 0.1.4</a></th>
@@ -149,4 +148,8 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 
     For any technical assistance please contact to: https://shurjopay.com.bd/#contacts
 
-
+<style>
+td, th {
+    border: 1px solid ;
+}
+</style>
